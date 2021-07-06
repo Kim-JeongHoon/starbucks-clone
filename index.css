@@ -1,0 +1,14 @@
+li{
+    list-style: none;
+}
+
+.logo{
+    background: url(./images/logo.png);
+    display: block;
+    overflow: hidden;
+    text-indent: -20000px;
+    width: 75px;
+    height: 75px;
+    margin: 0;
+    padding: 0;
+}
